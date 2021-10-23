@@ -15,7 +15,7 @@ What do I need to try to solve the problem?
 3b) if the Script needs files to compile, also please share all needed files along with the problematic Script
 ```
 
-InnoSetup extended versions (with added missing classes), which works from Windows XP to Windows 11 you can find on my website.
+InnoSetup extended versions (with added missing classes - Full-VCL), which works from Windows XP to Windows 11 you can find on my website.
 
 ## Solution: Preview InnoSetup On Task-Bar (ANSI/Unicode)
 
