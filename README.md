@@ -40,4 +40,3 @@ if you want to add it manually to your existing Script.
 
   So, you can check by yourself, if there exist any side-effects after using it.
 </details>
-
