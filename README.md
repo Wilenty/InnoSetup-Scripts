@@ -1,5 +1,5 @@
 # InnoSetup Scripts
-These InnoSetup scripts can be used and shared on other websites, but only in case, where there is no profit, even from ads.
+These InnoSetup scripts can be used and/or shared on other websites, but only in case, where there is no profit, even from ads.
 
 ```
 If you need any help in the InnoSetup Script/Code please support me on one of available links on this page. Then I will try to help you.
