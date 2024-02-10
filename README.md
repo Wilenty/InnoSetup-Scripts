@@ -1,4 +1,10 @@
 # InnoSetup Scripts
+
+[![Latest Version](https://img.shields.io/github/release/Wilenty/InnoSetup-Scripts.svg)](https://github.com/Wilenty/InnoSetup-Scripts/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-Scripts/total.svg)](https://github.com/Wilenty/InnoSetup-Scripts/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-Scripts/latest/total.svg)](https://github.com/Wilenty/InnoSetup-Scripts/releases/latest)
+
+
 These InnoSetup scripts can be used and/or shared on other websites, but only in case, where there is no profit, even from ads.
 
 ```
